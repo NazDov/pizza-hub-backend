@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    username: 'root'
+    password: 'root'
+    url: 'jdbc:mysql://localhost:3306/pizza-hub'
+  jpa:
+    show-sql: true
+
+server:
+  port: 8085
+  servlet:
+    context-path: '/api/pizza-hub'
+
+product:
+  default-page-size: 5

@@ -1,0 +1,14 @@
+server:
+  port: 10085
+  servlet:
+    context-path: '/api/pizza-hub-test'
+
+spring:
+  datasource:
+    url: 'jdbc:h2:mem:myDb;DB_CLOSE_DELAY=-1'
+  jpa:
+    show-sql: true
+
+
+product:
+  default-page-size: 5

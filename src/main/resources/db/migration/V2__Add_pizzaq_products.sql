@@ -1,0 +1,22 @@
+INSERT INTO product (name, description, price)
+VALUES
+('Pizza Margherita', 'Tomato sauce, mozzarella, and oregano.', 5.99),
+('Pizza Marinara', 'Tomato sauce, garlic and basil.', 4.99),
+('Pizza Quattro Stagioni', 'Tomato sauce, mozzarella, mushrooms, ham, artichokes, olives, and oregano.', 8.99),
+('Pizza Carbonara', 'Tomato sauce, mozzarella, parmesan, eggs, and bacon', 6.99),
+('Pizza Frutti di Mare', 'Tomato sauce and seafood', 4.99),
+('Pizza Quattro Formaggi', 'Tomato sauce, mozzarella, parmesan, gorgonzola cheese, artichokes, and oregano', 7.59),
+('Pizza Crudo', 'Tomato sauce, mozzarella and Parma ham', 6.50),
+('Pizza Napoletana', 'Tomato sauce, mozzarella, oregano, anchovies', 7.00),
+('Pizza Pugliese', 'Tomato sauce, mozzarella, oregano, and onions', 6.99),
+('Pizza Montanara', 'Tomato sauce, mozzarella, mushrooms, pepperoni, and Stracchino (soft cheese)', 11.99),
+('Pizza Emiliana', 'Tomato sauce, mozzarella, eggplant, boiled potatoes, and sausage', 7.49),
+('Pizza Romana', ' Tomato sauce, mozzarella, anchovies, capers, and oregano', 9.29),
+('Pizza Fattoria', 'Tomato sauce, mozzarella, peppers, peas, porchetta (Italian spit-roasted pork)', 10.99),
+('Pizza Schiacciata', 'Olive oil and rosemary', 5.99),
+('Pizza Prosciutto ', 'Tomato sauce, mozzarella, ham, and oregano', 8.99),
+('Pizza Americana ', 'Tomato sauce, mozzarella, sausage and french fries', 12.99),
+('Pizza Braccio di Ferro ', 'Mozzarella, spinach, ricotta cheese, and parmesan', 9.99),
+('Pizza Sarda', 'Tomato sauce, mozzarella, pecorino cheese, and spicy salami', 8.29),
+('Pizza Tonno', 'Tomato sauce, mozzarella, tuna, and onions', 6.99),
+('Pizza Valtellina', 'Tomato sauce, mozzarella, bresaola, Parmesan flakes and rocket', 7.69)
